@@ -4,4 +4,6 @@ Rahul jamod
 <br>
 sanjay jamod 
 <br>
-Author by rahul Sanjay Jamod
+Author by Rahul Jamod
+<br>
+Manage By Sanjay Jamod
